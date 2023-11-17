@@ -1,3 +1,29 @@
 {
-  
+  "todoList": [
+    {
+      "id": 1,
+      "task": "Buy groceries",
+      "done": false
+    },
+    {
+      "id": 2,
+      "task": "Finish work project",
+      "done": false
+    },
+    {
+      "id": 3,
+      "task": "Go for a run",
+      "done": true
+    },
+    {
+      "id": 4,
+      "task": "Read a book",
+      "done": false
+    },
+    {
+      "id": 5,
+      "task": "Call mom",
+      "done": true
+    }
+  ]
 }
